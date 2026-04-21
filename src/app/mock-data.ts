@@ -48,7 +48,7 @@ export const MOCK_PRODUCTS: Product[] = [
     stockCount: 20,
     addedDate: new Date(Date.now() - 1000 * 60 * 30), // 30 minutes ago
     rating: 3,
-    imageUrl: 'https://vlebazaar.in/logitech-g-pro-wireless-gaming-mouse-black?srsltid=AfmBOoojjB4GgaRdUNlPnlkJiYBnhMQbJOWc8Ti2wfCXMVFiCE6cLqUS'
+    imageUrl: 'https://www.mchose.store/cdn/shop/files/mchose-official-mouse-mchose-l7-series-ultra-lightweight-wireless-gaming-mouse-1166639710.jpg?v=1754474342'
   },
   {
     id: 5,
@@ -58,7 +58,7 @@ export const MOCK_PRODUCTS: Product[] = [
     stockCount: 3,
     addedDate: new Date(Date.now() - 1000 * 60 * 10), // 10 minutes ago
     rating: 5,
-    imageUrl: 'https://images.unsplash.com/photo-1597740985671-2a8a3b80502e?w=500&q=80'
+    imageUrl: 'https://images-cdn.ubuy.co.in/6627b88a13046b5ecf751c4c-1-tb-ultra-high-speed-portable-ssd.jpg'
   },
   {
     id: 6,
@@ -78,7 +78,7 @@ export const MOCK_PRODUCTS: Product[] = [
     stockCount: 25,
     addedDate: new Date(Date.now() - 1000 * 60 * 60 * 48), // 2 days ago
     rating: 4,
-    imageUrl: 'https://images.unsplash.com/photo-1527864550417-7fd91fc51a46?w=500&q=80'
+    imageUrl: 'https://www.galenleather.com/cdn/shop/files/wooden-laptop-stand-for-macbook-mahogany-5_2048x.jpg?v=1683416651'
   },
   {
     id: 8,
@@ -88,7 +88,7 @@ export const MOCK_PRODUCTS: Product[] = [
     stockCount: 6,
     addedDate: new Date(Date.now() - 1000 * 60 * 15), // 15 minutes ago
     rating: 4,
-    imageUrl: 'https://images.unsplash.com/photo-1583394238182-6f71f218a66d?w=500&q=80'
+    imageUrl: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7LimwTKN_GkT4eq9F-GGX6vRW1n5Tx-t9Lw&s'
   },
   {
     id: 9,
@@ -98,7 +98,7 @@ export const MOCK_PRODUCTS: Product[] = [
     stockCount: 18,
     addedDate: new Date(Date.now() - 1000 * 60 * 60 * 12), // 12 hours ago
     rating: 3,
-    imageUrl: 'https://images.unsplash.com/photo-1546435770-a3e426bf472b?w=500&q=80'
+    imageUrl: 'https://m.media-amazon.com/images/I/61Nb935ZpsL.jpg'
   },
   {
     id: 10,
@@ -108,7 +108,7 @@ export const MOCK_PRODUCTS: Product[] = [
     stockCount: 30,
     addedDate: new Date(Date.now() - 1000 * 60 * 60 * 24 * 3), // 3 days ago
     rating: 5,
-    imageUrl: 'https://images.unsplash.com/photo-1520931061294-7ae230adca82?w=500&q=80'
+    imageUrl: 'https://myborosil.com/cdn/shop/files/BKE08_1.jpg'
   },
   {
     id: 11,
@@ -118,7 +118,7 @@ export const MOCK_PRODUCTS: Product[] = [
     stockCount: 5,
     addedDate: new Date(Date.now() - 1000 * 60 * 2), // 2 minutes ago
     rating: 4,
-    imageUrl: 'https://images.unsplash.com/photo-1534073828943-f801091bb18c?w=500&q=80'
+    imageUrl: 'https://i.etsystatic.com/14141678/r/il/236f3e/3500340992/il_570xN.3500340992_7c4k.jpg'
   },
   {
     id: 12,
@@ -128,7 +128,7 @@ export const MOCK_PRODUCTS: Product[] = [
     stockCount: 2,
     addedDate: new Date(Date.now() - 1000 * 60 * 60 * 1), // 1 hour ago
     rating: 5,
-    imageUrl: 'https://images.unsplash.com/photo-1520970014086-2208d157c9e2?w=500&q=80'
+    imageUrl: 'https://www.suranasons.in/cdn/shop/files/61x2BKrHBKL._SL1000.jpg?v=1736500986'
   },
   {
     id: 13,
@@ -138,7 +138,7 @@ export const MOCK_PRODUCTS: Product[] = [
     stockCount: 4,
     addedDate: new Date(Date.now() - 1000 * 60 * 60 * 24 * 7), // 1 week ago
     rating: 4,
-    imageUrl: 'https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?w=500&q=80'
+    imageUrl: 'https://thegadgetflow.com/wp-content/uploads/2021/12/Odyssey-G9-4-01.jpeg'
   },
   {
     id: 14,
@@ -148,7 +148,7 @@ export const MOCK_PRODUCTS: Product[] = [
     stockCount: 10,
     addedDate: new Date(Date.now() - 1000 * 60 * 8), // 8 minutes ago
     rating: 4,
-    imageUrl: 'https://images.unsplash.com/photo-1590658268037-6bf12165a8df?w=500&q=80'
+    imageUrl: 'https://www.cnet.com/a/img/resize/1a4bb02c248711c4810de910a2d713c7d8653617/hub/2025/09/15/2b759599-8f38-4b99-9cc7-6db94c276db5/bose-quietcomfort-ultra-earbuds-2nd-gen-plum-1.jpg?auto=webp&height=500'
   },
   {
     id: 15,
@@ -158,7 +158,7 @@ export const MOCK_PRODUCTS: Product[] = [
     stockCount: 40,
     addedDate: new Date(Date.now() - 1000 * 60 * 60 * 3), // 3 hours ago
     rating: 3,
-    imageUrl: 'https://images.unsplash.com/photo-1585338111222-d402f15c442?w=500&q=80'
+    imageUrl: 'https://xp-pen.co.in/cdn/shop/products/2.1.jpg?v=1694762816'
   },
   {
     id: 16,
@@ -168,6 +168,6 @@ export const MOCK_PRODUCTS: Product[] = [
     stockCount: 50,
     addedDate: new Date(Date.now() - 1000 * 60 * 5), // 5 minutes ago
     rating: 4,
-    imageUrl: 'https://images.unsplash.com/photo-1558002038-103792e07a70?w=500&q=80'
+    imageUrl: 'https://cdn.thewirecutter.com/wp-content/media/2025/06/smart-plug-2048px-2187-2x1-1.jpg?width=2048&quality=75&crop=2:1&auto=webp'
   }
 ];
