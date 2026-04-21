@@ -2,7 +2,7 @@ import { Component } from '@angular/core';
 
 @Component({
   selector: 'app-star-rating',
-  imports: [],
+  imports: [com],
   templateUrl: './star-rating.html',
   styleUrl: './star-rating.css',
 })
