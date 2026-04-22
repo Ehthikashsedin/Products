@@ -17,7 +17,7 @@ export const MOCK_PRODUCTS: Product[] = [
     description: 'High-quality wireless headphones with noise cancellation.',
     stockCount: 5,
     addedDate: new Date(Date.now() - 1000 * 60 * 5), // 5 minutes ago
-    rating: 0,
+    rating: 1,
     imageUrl: 'https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500&q=80'
   },
   {
@@ -27,7 +27,7 @@ export const MOCK_PRODUCTS: Product[] = [
     description: 'Track your fitness and stay connected.',
     stockCount: 15,
     addedDate: new Date(Date.now() - 1000 * 60 * 60 * 2), // 2 hours ago
-    rating: 0,
+    rating: 1,
     imageUrl: 'https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=500&q=80'
   },
   {
